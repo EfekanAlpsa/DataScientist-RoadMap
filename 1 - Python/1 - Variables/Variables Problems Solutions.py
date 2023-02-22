@@ -1,4 +1,4 @@
-# Question 2 :
+# Question 1 :
 # -------------
 
 # First Question Wrong , Reason Why Is That Will Make a Syntax Error
