@@ -1,0 +1,21 @@
+Question 1
+-----------
+1. Using following list of cities per country
+
+    us = ["austin","dallas","chicago"]
+    uk = ["london","bristol","liverpool"]
+    tr = ["istanbul","bursa","ankara"]
+
+    I.Write a program that asks user to enter a city name and it should tell which country the city belongs to
+    II.Write a program that asks user to enter two cities and it tells you if they both are in same country or not.
+
+
+Question 2
+-----------
+2.Write a python program that can tell you if your blood pressure is normal.
+Get values of Systolic blood pressure and diastolic blood pressure from the user
+
+    I.Ask user to enter Systolic blood pressure & diastolic blood pressure values
+    II.If systolic pressure is higher than 140, print high blood pressure on the screen
+    III.If diastolic pressure is higher than 90, print high blood pressure on the screen
+
