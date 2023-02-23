@@ -32,6 +32,7 @@ elif city1 in tr and city2 in tr:
 else:
     print("They don't belong to same country")
 
+
 # Question 2 :
 # -------------
 
