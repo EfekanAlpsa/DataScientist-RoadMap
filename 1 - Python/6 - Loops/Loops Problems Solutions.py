@@ -18,7 +18,7 @@ print("Question 2 \n")
 
 for i2 in range(1,11):
     if i2 % 2 != 0:
-        print(i2*i2)
+        print(i2 * i2)
 
 # Question 3 :
 # -------------
