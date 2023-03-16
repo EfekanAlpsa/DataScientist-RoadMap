@@ -74,6 +74,7 @@ for i in range(1,6):
 # -------------
 
 totalNumber = 0
+
 number = int(input("Enter a number : "))
 
 while number != 0:
