@@ -69,3 +69,18 @@ for i in range(1,6):
     for j in range(i):
         c += '*'
     print(c)
+
+# Question 6 :
+# -------------
+
+totalNumber = 0
+number = int(input("Enter a number : "))
+
+while number != 0:
+
+    totalNumber += number
+    number = int(input("Enter a number : "))
+
+print("Total : ",totalNumber)
+
+
