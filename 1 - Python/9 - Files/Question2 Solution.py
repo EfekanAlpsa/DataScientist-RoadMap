@@ -9,6 +9,7 @@ for i in range(5):
 with open("efile.txt", "w") as f:
     for line in data:
         f.write(line)
+
         f.write("\n")
 
 with open("efile.txt", "r") as ff:
