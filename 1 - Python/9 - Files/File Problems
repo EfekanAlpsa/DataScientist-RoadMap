@@ -1,0 +1,9 @@
+Question 1
+-----------
+
+poem.txt contains famous poem "The Second Coming " by William Butler Yeats. You have to read this file in your python program and find out words with maximum occurance.
+
+Question 2
+-----------
+
+Take 5 sentences from the user and store them in an array. Then write the sentences you received in the file named "efile". Then read the file
