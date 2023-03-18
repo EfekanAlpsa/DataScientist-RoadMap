@@ -9,6 +9,7 @@ with open("poem.txt", "r") as f:
             else:
                 word_stats[word] = 1
 
+
 print(word_stats)
 
 word_occurances = list(word_stats.values())
