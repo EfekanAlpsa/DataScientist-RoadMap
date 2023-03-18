@@ -13,3 +13,4 @@ with open("efile.txt", "w") as f:
 with open("efile.txt", "r") as ff:
     contents = ff.read()
     print(contents)
+
