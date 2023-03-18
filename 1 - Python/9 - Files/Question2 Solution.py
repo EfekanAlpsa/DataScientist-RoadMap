@@ -1,5 +1,6 @@
 data = []
 
+
 for i in range(5):
     line = input("Enter Sentence For Us : ")
     data.append(line)
