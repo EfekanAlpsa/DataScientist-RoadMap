@@ -1,0 +1,24 @@
+Question 1
+-----------
+1.Create a sample class named Employee with four attributes : id / name / age / gender
+
+    employee :
+
+        id
+        name
+        age
+        gender
+
+    Create an object of this class and create a function called display() to display the information of the object you created
+
+Question 2
+-----------
+
+2.Recreate the class named Employee. Two objects will be created and displayed, but object information will be retrieved from the user.
+Then calculate the salary using the formula below.
+
+        salary = 2100 * (Age - 18)
+
+        This will calculate the user's total salary to date
+
+        If the employee is more than 40 years old, a bonus of $4000 will be given to their total salary !

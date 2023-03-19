@@ -2,7 +2,3 @@ Question 1
 -----------
 1.Write a python program that takes two numbers from the user. Divide between these two numbers. If an error occurs, print an error message on the screen
 (To try , You can type 0 for second number). If the error does not occur, print the result inside the else block. Then say thank you using the finally block
-
-Question 2
------------
-2.
