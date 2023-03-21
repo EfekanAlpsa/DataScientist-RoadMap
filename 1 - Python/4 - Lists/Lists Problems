@@ -32,3 +32,14 @@ Question 2
        So you want to remove thor and hulk from list and replace them with doctor strange (because he is cool).
        Do that with one line of code.
     5. Sort the heros list in alphabetical order (Hint. Use dir() functions to list down all functions available in list)
+
+Special Question
+-----------------
+3. names = [
+       'Bobby C. Brown',
+       'Chris Stevens',
+       'Jacob G. Smith',
+       'John Paul Davis'
+    ]
+
+Put the surnames of the people in the string named "names" in a single line into another string and print it on the screen.
