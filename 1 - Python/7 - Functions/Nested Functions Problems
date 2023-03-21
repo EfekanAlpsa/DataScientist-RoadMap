@@ -1,0 +1,9 @@
+Question 1
+-----------
+1.Get the values "name" , "age" , "favorite music name" from the user and assign their variables.
+Then use one of the nested function types to print them out as a dictionary.
+
+Question 2
+-----------
+2.Get the values "name" , "age" , "favorite music name" from the user and assign their variables.
+Then use one of the nested function types to print them out as a tuple.
