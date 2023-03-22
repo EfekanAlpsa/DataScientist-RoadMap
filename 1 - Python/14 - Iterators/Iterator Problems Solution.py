@@ -22,6 +22,7 @@ class Fibonacci:
 
 # init the fib_iterator
 fib_iterator = iter(Fibonacci(5))
+
 while True:
     # print the value of next fibonacci up to 5th fibonacci
     try:
