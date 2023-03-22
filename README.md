@@ -20,3 +20,13 @@ In this repository , I will share the own roadmap roadmap I followed to become a
 
 - Deep Learning 🧠
 
+## 1 - Python
+
+- Variables, Numbers, Strings
+- Lists, Dictionaries, Tuples
+- If Condition, Loops
+- Functions, Modules
+- Files, Exception Handling
+- Classes, Objects
+
+[Here All Problems And Solutions For Python Part](https://github.com/EfekanAlpsa/DataScientist-RoadMap/tree/master/1%20-%20Python)
