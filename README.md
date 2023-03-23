@@ -1,12 +1,14 @@
 
 # DATA SCIENCE ROADMAP 
 
-In this repository , I will share the own roadmap roadmap I followed to become a data scientist and the work I did while approaching this goal. People with the same goal can progress through this path, or professional people can refresh and test their knowledge.
+In this repository , I will share the own roadmap I followed to become a data scientist and the work I did while approaching this goal. People with the same goal can progress through this path, or professional people can refresh and test their knowledge.
 
 
 ## What Will Be Included In This Roadmap
 
 - Python 🐍
+
+- Algorithms 🧩
 
 - Pandas, Data Visualization (matplotlib or seaborn) 📊
 
