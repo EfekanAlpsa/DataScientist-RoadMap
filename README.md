@@ -22,7 +22,7 @@ In this repository , I will share the own roadmap I followed to become a data sc
 
 - Deep Learning 🧠
 
-## 1 - Python
+## 1 - Python 🐍
 
 - Variables, Numbers, Strings
 - Lists, Dictionaries, Tuples
@@ -32,3 +32,5 @@ In this repository , I will share the own roadmap I followed to become a data sc
 - Classes, Objects
 
 [Here All Problems And Solutions For Python Part](https://github.com/EfekanAlpsa/DataScientist-RoadMap/tree/master/1%20-%20Python)
+
+## 2 - Algorithms 🧩
