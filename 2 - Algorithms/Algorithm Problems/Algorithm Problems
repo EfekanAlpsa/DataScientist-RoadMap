@@ -12,3 +12,19 @@ How to Print Triangle Pyramid in python Example ?
            * * * * * * * *
           * * * * * * * * *
          * * * * * * * * * *
+
+Question 2
+-----------
+How to Print Downward Triangle Pattern in python Example ?
+
+                  * * * * * * * * * * *
+                   * * * * * * * * * *
+                    * * * * * * * * *
+                     * * * * * * * *
+                      * * * * * * *
+                       * * * * * *
+                        * * * * *
+                         * * * *
+                          * * *
+                           * *
+                            *
