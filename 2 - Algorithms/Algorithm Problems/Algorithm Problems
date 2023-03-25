@@ -43,3 +43,18 @@ How to Print Downward Half Pyramid in python Example ?
 * * *
 * *
 *
+
+Question 4
+-----------
+How to Print Reversed Right Angle Pyramid in python Example ?
+
+                  *
+                * *
+              * * *
+            * * * *
+          * * * * *
+        * * * * * *
+      * * * * * * *
+    * * * * * * * *
+  * * * * * * * * *
+* * * * * * * * * *
