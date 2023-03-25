@@ -36,5 +36,6 @@ In this repository , I will share the own roadmap I followed to become a data sc
 ## 2 - Algorithms 🧩
 
 - 13 Excellent Algorithm Problems to Test Your Algorithm Knowledge
+
 [Here All Problems And Solutions For Python Part](https://github.com/EfekanAlpsa/DataScientist-RoadMap/tree/master/2%20-%20Algorithms/Algorithm%20Problems)
 [For High-Level Algorithms, You Can Browse Here.](https://github.com/EfekanAlpsa/Algorithms-for-Searching-Sorting-and-Indexing)
