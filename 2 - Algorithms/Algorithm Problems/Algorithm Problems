@@ -133,3 +133,18 @@ How to Print Reverse Pattern from 10 to 1 in python Example ?
 3 2 1
 2 1
 1
+
+Question 10
+------------
+How to Print Same Number Inverted Pyramid in python Example ?
+
+8 8 8 8 8 8 8 8 8 8
+8 8 8 8 8 8 8 8 8
+8 8 8 8 8 8 8 8
+8 8 8 8 8 8 8
+8 8 8 8 8 8
+8 8 8 8 8
+8 8 8 8
+8 8 8
+8 8
+8
