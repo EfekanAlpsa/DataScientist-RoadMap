@@ -2,6 +2,7 @@ Question 1
 -----------
 1. animals = ["lion","tiger","tiger","pig","ping","lion","tiger","lion","tiger","pig"]
 
+
 Using for loop figure out how many times you got pig
 
 Question 2
