@@ -43,5 +43,5 @@ b = np.arange(3, 15, 4).reshape(3, 1)
 
 print(b, "\n")
 
-for x,y in np.nditer([a, b]):
+for x, y in np.nditer([a, b]):
     print(x, y)
