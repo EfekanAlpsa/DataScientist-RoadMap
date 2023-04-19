@@ -46,6 +46,7 @@ In this repository , I will share the own roadmap I followed to become a data sc
 - Numpy
   - Numpy Folder  : [Here All Numpy List](https://github.com/EfekanAlpsa/DataScientist-RoadMap/tree/master/3%20-%20Pandas%2C%20Data%20Visualization/Numpy)
 - Pandas
+  - Pandas Folder  : [Here All Pandas List](https://github.com/EfekanAlpsa/DataScientist-RoadMap/tree/master/3%20-%20Pandas%2C%20Data%20Visualization/Pandas)
 - matplotlib
 
 [Here All Problems And Solutions For Data Visualization Part](https://github.com/EfekanAlpsa/DataScientist-RoadMap/tree/master/3%20-%20Pandas%2C%20Data%20Visualization)
