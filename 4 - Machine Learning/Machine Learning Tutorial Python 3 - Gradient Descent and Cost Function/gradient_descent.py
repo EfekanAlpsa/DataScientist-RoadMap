@@ -1,5 +1,6 @@
 import numpy as np
 
+#Gradient Descent is an algorithm that finds best fit line for given training data set
 
 def gradient_descent(x, y):
     m_curr = b_curr = 0
