@@ -3,9 +3,10 @@ import pandas as pd
 import math
 from sklearn.linear_model import LinearRegression
 
+
 def gradient_descent(x, y):
     m_curr = b_curr = 0
-    iterations = 1000000
+    iterations = 1000
     n = len(x)
     learning_rate = 0.0002
 
@@ -27,9 +28,21 @@ def gradient_descent(x, y):
 
     return m_curr, b_curr
 
+
 def predict_using_sklearn():
     df = pd.read_csv("test_scores.csv")
     r = LinearRegression()
-    r.fit(df[['math']],df.cs)
+    r.fit(df[['math']], df.cs)
     return r.coef_, r.intercept_
 
+
+if __name__ == "__main__":
+    df = pd.read_csv("test_scores.csv")
+    x = np.array(df.math)
+    y = np.array(df.cs)
+
+    m, b = gradient_descent(x, y)
+    print("Using Gradient Descent Function : Coef {} , Intercept {}".format(m, b))
+
+    m_sklearn, b_sklearn = predict_using_sklearn()
+    print("Using Sklearn : Coef {} , Intercept {}".format(m_sklearn, b_sklearn))
