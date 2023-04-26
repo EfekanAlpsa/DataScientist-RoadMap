@@ -26,3 +26,10 @@ def gradient_descent(x, y):
         print("m {}, b {}, cost {}, iteration {}".format(m_curr, b_curr, cost, i))
 
     return m_curr, b_curr
+
+def predict_using_sklearn():
+    df = pd.read_csv("test_scores.csv")
+    r = LinearRegression()
+    r.fit(df[['math']],df.cs)
+    return r.coef_, r.intercept_
+
