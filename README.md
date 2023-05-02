@@ -1,4 +1,3 @@
-
 # DATA SCIENCE ROADMAP 
 
 In this repository , I will share the own roadmap I followed to become a data scientist and the work I did while approaching this goal. People with the same goal can progress through this path, or professional people can refresh and test their knowledge.
