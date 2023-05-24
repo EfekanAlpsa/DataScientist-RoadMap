@@ -25,6 +25,3 @@ print("Total Price : ",cost) #Ans: 307.2
 
 num = 15
 print("Binary of Number 15 is : ",format(num,"b")) #Ans: 1111
-
-
-
